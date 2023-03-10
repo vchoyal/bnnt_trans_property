@@ -1,0 +1,3 @@
+git init # insiate the git
+if .git not shown use ctrl+H
+git status # to show which file need to add
